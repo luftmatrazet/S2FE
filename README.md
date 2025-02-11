@@ -1,4 +1,4 @@
-S2AFe - DevSecOps. 
+S2Fe - DevSecOps. 
 A Scaled Agile approach to Security in DevOps organizations.
 
 Introduction: Why?
